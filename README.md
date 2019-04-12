@@ -1,4 +1,4 @@
-# FIR and Array addition testing on NEON Intrinsics
+# FIR and Array addition tested on NEON Intrinsics
 Analyzing Speedup of NEON vs Scalar execution
 
 Development of an application on NDK Eclipse for Android 8 to compare the performance between NEON intrinsics and Scalar execution.
